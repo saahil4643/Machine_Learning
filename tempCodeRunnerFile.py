@@ -1,0 +1,1 @@
+print(sonar_data['R'].value_counts())
